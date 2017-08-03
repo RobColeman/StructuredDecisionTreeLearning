@@ -1,2 +1,2 @@
-# StructuredDecisionTreeLearning
-Learn Optimal Decision Trees given a pre-defined structure
+Created by Robert Coleman 7/5/2017
+contact : rbrt.coleman@gmail.com
